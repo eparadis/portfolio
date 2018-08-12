@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/portfolio/a4-paper.jpg"
+image = "img/portfolio/smart_food_containers/video_screenshot1.png"
 date = "2018-08-05"
 title = "Smart Food Containers"
 weight = 0

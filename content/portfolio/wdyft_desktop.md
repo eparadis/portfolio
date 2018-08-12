@@ -1,9 +1,9 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/portfolio/a4-paper.jpg"
+image = "img/portfolio/wdyft_desktop/cover_sketch.png"
 date = "2018-08-05"
-title = "Where Did You Find That?"
+title = "Where Did You Find That? (Desktop)"
 weight = 0
 +++
 

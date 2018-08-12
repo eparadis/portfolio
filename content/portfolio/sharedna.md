@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/portfolio/a4-paper.jpg"
+image = "img/portfolio/sharedna/app_screenshot.jpeg"
 date = "2018-08-05"
 title = "ShareDNA"
 weight = 0
