@@ -13,7 +13,8 @@ IoT Video Sketch Mockup
 As part of my User Centered Design certificate coursework, I created a video sketch showing scenarios for a smart food container. The prop container was implemented with a small programmable microcontroller.
 
 
-Design process
+## Design process
+
 - ideation
 - sketches
 - storyboarding
@@ -22,7 +23,8 @@ Design process
 - iteration of design
 - filming and high fidelity video sketch
 
-Artifacts
+## Artifacts
+
 - scans of sketches
 - scans of storyboards
 - GIF of animatic
