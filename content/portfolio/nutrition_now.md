@@ -13,6 +13,8 @@ Mobile App Design and Prototype using the UCD process
 
 As part of my User Centered Design certificate coursework, my team designed and prototyped a mobile application for managing food nutrition. It aimed to streamline the meal recording process and promote healthy meal decisions by reducing the negative emotional association with dieting. Our goal was to encourage a long-term behavior change towards healthier nutrition habits, culminating in the obviating of the app itself.
 
+*This page is currently a WIP.*
+
 ## Design process
 
 - design hypothesis
@@ -25,7 +27,8 @@ As part of my User Centered Design certificate coursework, my team designed and 
 
 ## Artifacts
 
+- [Design Specification](/img/portfolio/nutrition_now/design_specifications.pdf)
 - scans of sketches
 - copy of survey
 - GIF of prototype
-- link to report
+

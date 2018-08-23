@@ -13,10 +13,12 @@ Mobile App prototype for Peer-To-Peer Marketplace
 
 As part of my User Centered Design certificate coursework, I designed and built a mobile app low fidelity prototype for users to buy and sell items simply and securely. This design focused on the buyer's user experience.
 
+*This page is currently a WIP.*
+
 ## Design process
 
 - ideation
-- sketches/low-fidelity prototype (sanity check usability testing with paper prototype)
+- sketches/low-fidelity prototype
 - mid-fidelity prototype with MarvelApp
 
 ## Artifacts

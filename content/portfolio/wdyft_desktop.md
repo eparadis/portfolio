@@ -10,14 +10,17 @@ weight = 0
 Desktop website prototype for experienced sellers
 
 <!--more-->
-As part of my User Centered Design certificate coursework, I designed and built a low fidelity website prototype. [What was the design goal of this prototype?]
+
+As part of my User Centered Design certificate coursework, I designed and built a low fidelity website prototype.
+
+*This page is currently a WIP.*
 
 ## Design process
 
 - existing convention research
 - low fidelity prototype
 - quick prototype testing/evaluation
-- mid-fidelity prototype with Marvel [again was it marvel? did i use something else alongside it at this point?]
+- mid-fidelity prototype with Marvel
 
 ## Artifacts
 
