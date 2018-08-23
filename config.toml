@@ -16,7 +16,7 @@ googleAnalytics = ""
   sidebarAbout = [
     "I am an aspiring UX professional with over 10 years of software development experience.",
     "Available in the Seattle, WA area.",
-    "Please note: this portfolio is still a WIP."
+    "Note: Some of this portfolio is still a WIP!"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
