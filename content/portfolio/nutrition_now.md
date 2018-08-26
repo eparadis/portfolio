@@ -91,15 +91,10 @@ Did we even iterate this?
 ## Launch / Results
 - what happened, what was the outcome?
 - what were the "wins"
-- _1-2 sentences, a few bullet points_
+- _1-2 sentences, a few bullet points_ -->
 
 ## Artifacts
-- online demo if available
-- comprehensive screenshots if demo not availble
 - [Design Specification](/img/portfolio/nutrition_now/design_specifications.pdf)
-- scans of sketches
-- copy of survey
-- GIF of prototype -->
 
 <!-- ## Reflection / Retrospective
 
