@@ -13,7 +13,7 @@ Mobile App Design and Prototype using the UCD process
 
 ## The Story
 
-As part of my User Centered Design certificate coursework, my team designed and prototyped a mobile application for managing food nutrition. It aimed to streamline the meal recording process and promote healthy meal decisions by reducing the negative emotional association with dieting. Our goal was to encourage a long-term behavior change towards healthier nutrition habits, culminating in the obviating of the app itself. We shared the roles of project management, ideation, and design, with visual design falling mainly on one of the team members with a visual design background.
+As part of my User Centered Design certificate coursework, my team designed and prototyped a mobile application for managing food nutrition. It aimed to streamline the meal recording process and promote healthy meal decisions by reducing the negative emotional association with dieting. Our goal was to encourage a long-term behavior change towards healthier nutrition habits, culminating in the obviating of the app itself. We shared the roles of project management, ideation, and design, with visual design falling mainly on one of the other team members with a visual design background.
 
 ## UX Design Process
 
@@ -43,9 +43,10 @@ P3 - Ideation & Sketching.pdf
 -->
 
 ## User Survey
+
 Our primary question was "Why did users stop tracking their nutrition?"
 
-Survey results:
+Results:
 
 - Too time-consuming
 - Too difficult to use
@@ -54,18 +55,25 @@ Survey results:
 - Met their goal
 
 ## Design
+
 We chose design principles to address each of the users' issues.
 
 - Wizard-style dialogs with minimal number of steps clearly prompt user
 - Image recognition of food elemenates most data entry
-- Non-technical portion measurements simplify data entry
+- Non-technical portion measurements simplify data entry (ie: _"Was the portion bigger or smaller than your fist?"_)
 - Meal-time notifications remind users when they normally eat
 - Gradual increasing fidelity of portion questions prevents long time commitments when users are first establishing the habit of food tracking
-- Avoid "progress bar" indicators because they are demotivating
+
+Daily summary             | Meal entry
+--------------------------| ----------------------
+![Daily summary][sketch2] | ![Meal entry][sketch4]
+
+[sketch2]: /img/portfolio/nutrition_now/sketch2_sm.jpg "Daily summary sketch"
+[sketch4]: /img/portfolio/nutrition_now/sketch4_sm.jpg "Meal entry"
 
 ## Prototype
 
-[Invision Prototype](https://invis.io/C3EMVM72N) _(Currently unvailable)_
+[Invision Prototype](https://invis.io/C3EMVM72N) _(Currently unvailable - see_ [Design Specification](/img/portfolio/nutrition_now/design_specifications.pdf) _for screenshots and user flows)_
 
 ## Evaluate
 
@@ -73,35 +81,19 @@ Users responded to our prototype with questions about the status of their progre
 
 [Interview script and results](/img/portfolio/nutrition_now/Prototype_and_Evaluation.pdf)
 
-<!-- ## Iteration
-Did we even iterate this?
+## Challenges in the Design
 
-## Challenge in Design
-- explain the core challenge(s)
-- _1-2 sentences and screenshots if helpful_
-
-## Re-evaluation of Design Decisions
-- show iteration and process
-
-## Development Adjustment
-- who I worked with
-- what happened
-- _1-2 sentences, bullet points_
-
-## Launch / Results
-- what happened, what was the outcome?
-- what were the "wins"
-- _1-2 sentences, a few bullet points_ -->
+How do you balance engagement with tedium? Nutrition tracking is at its a core a data-entry task and our survey results show many negative feelings around the process. Can you prompt novice users in a way that both teaches them to respond more accurately over time?
 
 ## Artifacts
-- [Design Specification](/img/portfolio/nutrition_now/design_specifications.pdf)
+- [Design Specification](/img/portfolio/nutrition_now/design_specifications.pdf) (includes full screen shots and user flows)
 
-<!-- ## Reflection / Retrospective
+## Reflection / Retrospective
 
-As my first formal experience with the UCD process, 
+I enjoyed working with my team mates, Mike and Sonam, because we all saw the potential of our project. My favorite part of this design is its humanity - it makes friendly a task that causes so much anxiety.
 
-- what went well
-- what didn't work
-- what I'd change next time
-- what I enjoyed
-- future actions: tie to business goals if possible -->
+Our survey process went very well. Responses focused our design efforts on lifting the negative associations with nutrition tracking.
+
+If I were to revisit this design, I would begin at a much lower fidelity prototype and iterate more often. Unfortunately this wasn't possible given the time constraints and project goals.
+
+I would also spend time validating the "progressive engagement" concept. I would like to find the answers to: How do you balance tedium and engagement in a data-entry task? How do you establish habits without nagging the user?
