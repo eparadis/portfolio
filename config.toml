@@ -15,8 +15,7 @@ googleAnalytics = ""
   copyright = "&copy;2018 Ed Paradis"
   sidebarAbout = [
     "I am an aspiring UX professional with over 10 years of software development experience.",
-    "Available in the Seattle, WA area.",
-    "Note: Some of this portfolio is still a WIP!"
+    "Available in the Seattle, WA area."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
