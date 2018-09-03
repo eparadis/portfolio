@@ -8,13 +8,14 @@ disqusShortname = ""
 googleAnalytics = ""
 
 [params]
+  title = "Portfolio of Ed Paradis"
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "default"
   description = "Portfolio"
   copyright = "&copy;2018 Ed Paradis"
   sidebarAbout = [
-    "I am an aspiring UX professional with over 10 years of software development experience.",
+    "A software engineer with 10+ years of experience aspiring to work in the UX space.",
     "Available in the Seattle, WA area."
   ]
   # Contact page
