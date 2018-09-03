@@ -36,7 +36,7 @@ As part of my User Centered Design certificate coursework, my team designed and 
 
 ## Ideation
 
-The nutrition tracking experience is common among those we surveyed, but adherance was low. We considered both a mobile app and a countertop personal assistant. The ubiquitous presence of cell phones and user's familiarity with nutrition-tracking apps won out.
+The nutrition tracking experience is common among those we surveyed, but adherence was low. We considered both a mobile app and a countertop personal assistant. The ubiquitous presence of cell phones and user's familiarity with nutrition-tracking apps won out.
 
 <!--
 P3 - Ideation & Sketching.pdf
@@ -59,7 +59,7 @@ Results:
 We chose design principles to address each of the users' issues.
 
 - Wizard-style dialogs with minimal number of steps clearly prompt user
-- Image recognition of food elemenates most data entry
+- Image recognition of food elements most data entry
 - Non-technical portion measurements simplify data entry (ie: _"Was the portion bigger or smaller than your fist?"_)
 - Meal-time notifications remind users when they normally eat
 - Gradual increasing fidelity of portion questions prevents long time commitments when users are first establishing the habit of food tracking
@@ -73,7 +73,7 @@ Daily summary             | Meal entry
 
 ## Prototype
 
-[Invision Prototype](https://invis.io/C3EMVM72N) _(Currently unvailable - see_ [Design Specification](/img/portfolio/nutrition_now/design_specifications.pdf) _for screenshots and user flows)_
+[Invision Prototype](https://invis.io/C3EMVM72N) _(Currently unavailable - see_ [Design Specification](/img/portfolio/nutrition_now/design_specifications.pdf) _for screenshots and user flows)_
 
 ## Evaluate
 

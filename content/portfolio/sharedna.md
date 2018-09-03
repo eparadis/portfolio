@@ -40,11 +40,11 @@ My team performed a heuristic analysis to identify potential points of confusion
 
 ## Participant recruitment
 
-Our clients had previous contact with a group of interested participants who had already had recieved actual genetic test results in another research project. We contacted these participants and organized in-person usability tests with them. We also created a general population survey to better understand the general reaction towards to concept of the app: sharing genetic test results using a mobile phone. 
+Our clients had previous contact with a group of interested participants who had already had received actual genetic test results in another research project. We contacted these participants and organized in-person usability tests with them. We also created a general population survey to better understand the general reaction towards to concept of the app: sharing genetic test results using a mobile phone. 
 
 ## Study design
 
-We designed the usability study to begin with installation of the application, including the discovery process. The participant was then given a set of tasks to perform in the application. A post-study questionaire was also given to the participants.
+We designed the usability study to begin with installation of the application, including the discovery process. The participant was then given a set of tasks to perform in the application. A post-study questionnaire was also given to the participants.
 
 A general population survey inquired about mobile technology experience, prior interest in genetic testing, and attitudinal questions around medical information privacy.
 
@@ -58,9 +58,9 @@ Due to the sensitive nature of the topic, our clients had obtained prior [IRB][i
 
 ## Challenges in the Design
 
-The greatest challenges in designing this study were the sensitivity of the topic and obtaining a large enough sample set. The portion of our participants who had already recieved test results did so in recieving treatment for various challenging medical conditions. Simply reminding them of that experience could cause emotional harm. Our study questions were therefore vetted by our clients and we were very cautious in our questioning technique.
+The greatest challenges in designing this study were the sensitivity of the topic and obtaining a large enough sample set. The portion of our participants who had already received test results did so in receiving treatment for various challenging medical conditions. Simply reminding them of that experience could cause emotional harm. Our study questions were therefore vetted by our clients and we were very cautious in our questioning technique.
 
-Because we were only able to recruit a small number in the target population of those who had already had genetic testing, we sought members of the general population. It proved to be challenging to provide enough context to these participants while collecting data in a way comparable to the target popuation set.
+Because we were only able to recruit a small number in the target population of those who had already had genetic testing, we sought members of the general population. It proved to be challenging to provide enough context to these participants while collecting data in a way comparable to the target population set.
 
 ## Re-evaluation of Design Decisions
 
@@ -81,7 +81,7 @@ From a technical standpoint, the study went well. Our recording methodology was 
 
 Our study identified several areas of poor usability in the app and we were able to make strong recommendations about how to improve it.
 
-We established good rapport with the study participants and this allowed us to collaboratively brainstorm possible future developments for the application. We repoted these to the clients as possible future design explorations.
+We established good rapport with the study participants and this allowed us to collaboratively brainstorm possible future developments for the application. We reported these to the clients as possible future design explorations.
 
 [report]: /img/portfolio/sharedna/study_report.pdf
 [irb]: https://en.wikipedia.org/wiki/Institutional_review_board
