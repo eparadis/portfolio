@@ -64,9 +64,9 @@ We chose design principles to address each of the users' issues.
 - Meal-time notifications remind users when they normally eat
 - Gradual increasing fidelity of portion questions prevents long time commitments when users are first establishing the habit of food tracking
 
-Daily summary             | Meal entry
---------------------------| ----------------------
-![Daily summary][sketch2] | ![Meal entry][sketch4]
+| Daily summary             | <span style="margin-left:20px"></span> | Meal entry
+|---------------------------|------|-----------------------
+| ![Daily summary][sketch2] |      | ![Meal entry][sketch4]
 
 [sketch2]: /img/portfolio/nutrition_now/sketch2_sm.jpg "Daily summary sketch"
 [sketch4]: /img/portfolio/nutrition_now/sketch4_sm.jpg "Meal entry"
@@ -90,9 +90,9 @@ How do you balance engagement with tedium? Nutrition tracking is at its a core a
 ## Artifacts
 - [Design Specification](/img/portfolio/nutrition_now/design_specifications.pdf) (includes full screen shots and user flows)
 
-Setup wizard  | Reminder notification     
---------------|---------------------------
-![Goal][goal] | ![Reminder][lockscreen]   
+| Setup wizard  | <span style="margin-left:20px"></span> | Reminder notification     
+|---------------|---------------------------|-----------
+| ![Goal][goal] |                           | ![Reminder][lockscreen]   
 
 [lockscreen]: /img/portfolio/nutrition_now/lockscreen_sm.png
 [goal]: /img/portfolio/nutrition_now/goal_sm.png
