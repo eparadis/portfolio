@@ -11,6 +11,12 @@ IoT Video Sketch Mockup
 
 <!--more-->
 
+![Holding the container][holding] |
+-----------------------------------
+
+[holding]: /img/portfolio/smart_food_containers/holding_container_sm.jpg
+<br>
+
 ## The Story
 
 As part of my User Centered Design certificate coursework, I created a video sketch showing scenarios for a smart food container. I implemented a prop container used in the video with a small programmable microcontroller. I was responsible for all parts of this project.
@@ -32,6 +38,13 @@ This was a target audience who could benefit from the introduction of an IOT dev
 ## Sketches / Storyboarding
 The physical manifestation of the device did not concern me as much as the interactions with it, so I began [sketching storyboards][sketches].
 
+Detail of storyboard sketch                   |
+------------------------------------------------
+![Detail of storyboard sketch][sketch_detail] |
+
+[sketch_detail]: /img/portfolio/smart_food_containers/storyboards2_sm.jpeg
+
+<br>
 ## Presentation and group critique
 I created a script and slide show to present to my classmates. By reading the script while advancing the slides, I estimate the length of the video.
 
@@ -51,6 +64,13 @@ This rough draft can be [found here][rough draft] (2m 6s).
 ## Filming and high fidelity video sketch
 Filming was done at a friends house using my iPhone's video recording capability. Audio was recorded separately (non-sync audio) to simplify editing. I made sure to capture B-roll to use while the narration introduced the persona and explained the design's context.
 
+Container being retrieved from the refrigerator          |
+----------------------------------------------------------
+![Retrieving container from the refrigerator][in_fridge] |
+
+[in_fridge]: /img/portfolio/smart_food_containers/green_in_fridge_sm.jpg
+
+<br>
 
 ## Challenges in the Design
 - How does the user inform the system of the contents of a container?
@@ -87,6 +107,14 @@ The reverse operation of informing the system of a container's contents is the i
 
 ## Artifacts
 - [Video Sketch of Design][final] (2m 13s)
+
+A container whose contents of spoiled        |
+----------------------------------------------
+![Container with spoiled contents][spoiled]  |
+
+[spoiled]: /img/portfolio/smart_food_containers/red_on_table_sm.jpg
+
+<br>
 
 <!-- - scans of sketches
 - scans of storyboards
