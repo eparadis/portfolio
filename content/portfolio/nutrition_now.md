@@ -88,6 +88,13 @@ How do you balance engagement with tedium? Nutrition tracking is at its a core a
 ## Artifacts
 - [Design Specification](/img/portfolio/nutrition_now/design_specifications.pdf) (includes full screen shots and user flows)
 
+Setup wizard  | Reminder notification     
+--------------|---------------------------
+![Goal][goal] | ![Reminder][lockscreen]   
+
+[lockscreen]: /img/portfolio/nutrition_now/lockscreen_sm.png
+[goal]: /img/portfolio/nutrition_now/goal_sm.png
+
 ## Reflection / Retrospective
 
 I enjoyed working with my team mates, Mike and Sonam, because we all saw the potential of our project. My favorite part of this design is its humanity - it makes friendly a task that causes so much anxiety.
