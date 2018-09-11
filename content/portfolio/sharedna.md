@@ -64,6 +64,8 @@ Sketch of interview setup   |
 
 [setup_sketch]: /img/portfolio/sharedna/interview_setup_sketch_sm.jpeg
 
+<br>
+
 ## Presentation of report to clients
 
 [We compiled the results of the study][report] and presented it to our clients. All recordings were also presented for future analysis by other members of their team.

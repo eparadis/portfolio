@@ -71,6 +71,8 @@ Daily summary             | Meal entry
 [sketch2]: /img/portfolio/nutrition_now/sketch2_sm.jpg "Daily summary sketch"
 [sketch4]: /img/portfolio/nutrition_now/sketch4_sm.jpg "Meal entry"
 
+<br>
+
 ## Prototype
 
 [Invision Prototype](https://invis.io/C3EMVM72N) _(Currently unavailable - see_ [Design Specification](/img/portfolio/nutrition_now/design_specifications.pdf) _for screenshots and user flows)_
@@ -94,6 +96,8 @@ Setup wizard  | Reminder notification
 
 [lockscreen]: /img/portfolio/nutrition_now/lockscreen_sm.png
 [goal]: /img/portfolio/nutrition_now/goal_sm.png
+
+<br>
 
 ## Reflection / Retrospective
 
