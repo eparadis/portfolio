@@ -11,11 +11,11 @@ IoT Video Sketch Mockup
 
 <!--more-->
 
-![Holding the container][holding] |
+![Holding the container][holding] 
 -----------------------------------
 
 [holding]: /img/portfolio/smart_food_containers/holding_container_sm.jpg
-<br>
+
 
 ## The Story
 

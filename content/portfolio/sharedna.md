@@ -11,12 +11,12 @@ Usability Study Design, Execution, and Insights
 
 <!--more-->
 
-![App screenshot][wizard start]  |
+![App screenshot][wizard start]
 ------------------------------------
 
 [wizard start]: /img/portfolio/sharedna/app_screenshot_sm.jpeg
 
-<br>
+
 ## The Story
 
 As part of my User Centered Design certificate coursework, my team designed and performed a usability study of a UW Medicine [mobile application for sharing genetic test results](http://sharedna.org/). The app is designed to simplify and manage the sharing of genetic test results between care providers, patients, and whomever the patients wish to share their test results with. We produced a report with our study's results and insights. I shared the role of study moderator with the other team members.
