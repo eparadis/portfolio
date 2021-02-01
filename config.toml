@@ -13,7 +13,7 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "default"
   description = "Portfolio"
-  copyright = "&copy;2018 Ed Paradis"
+  copyright = "&copy;2021 Ed Paradis"
   sidebarAbout = [
     "A software engineer with 10+ years of experience aspiring to work in the UX space.",
     "Available in the Seattle, WA area."
