@@ -25,13 +25,23 @@ I am houseplant enthusiast - there are over 50 different plants around my house.
 
 The two major concerns of caring for a house plant are sunlight and water. I decided to tackle the former to avoid the complexities of fluid handling. In the northern latitudes of Seattle, WA, plants sitting in a window often receive either too much sunlight in the long bright days of summer. If moved to a less bright window, getting enough sunlight in the winter is the issue. Moving your favorite house plant back and forth twice a year is not much of a challenge, but for someone like myself with dozens and dozens of plants, there is simply not enough space available for all your plants in all the right places. This design addresses the question "How can I leave a plant in a bright window year round without having to worry it being dried to a crisp one bright weekend when I'm out of town?"
 
-## Design Challenge
+## Prototyping Challenge
+
+> How little fidelity is required to communicate the design intent?
 
 As a prototype, the challenge of the project was to embody enough fidelity to convey the design in an efficient manner. Behavior was programmed in an afternoon and physical construction was completed in an evening. 
 
 I iterated the design of the interface using paper sketches.
 
 Behavior of the prototype was implemented incrementally. The LED display and button interfaces were created first, followed by the turn table speed control. I then established the servo control signal. The automatic light control integrating the accumlated hours of sunlight was implemented last.
+
+
+{{< gallery class="content-gallery" >}}
+  {{< img src="/img/portfolio/plant_prototype/detail_inside_enclosure.jpg" >}}
+  {{< img src="/img/portfolio/plant_prototype/detail_servo.jpg" >}}
+  {{< img src="/img/portfolio/plant_prototype/detail_turntable.jpg" >}}
+{{< /gallery >}}
+
 
 After the electronics were completed, I then constructed the physical mockups of the system. The prototype was built to test the interaction model (buttons, LEDs, visually observable feedback, etc), not the industrial design or appearance of the product. The prototype was created using foamboard, hot glue, art paper, COPIC markers, and LEGO.
 
