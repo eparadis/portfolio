@@ -45,7 +45,9 @@ Behavior of the prototype was implemented incrementally. The LED display and but
 
 After the electronics were completed, I then constructed the physical mockups of the system. The prototype was built to test the interaction model (buttons, LEDs, visually observable feedback, etc), not the industrial design or appearance of the product. The prototype was created using foamboard, hot glue, art paper, COPIC markers, and LEGO.
 
-![system diagram](/img/portfolio/plant_prototype/system_diagram.svg)
+{{< gallery class="content-gallery svg-container" >}}
+  {{< img src="/img/portfolio/plant_prototype/system_diagram.svg" >}}
+{{< /gallery >}}
 
 ## UX Design Process
 
