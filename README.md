@@ -10,3 +10,5 @@ Check it out at https://portfolio.edparadis.com/portfolio/
 ## build and upload
 `./build_and_upload.sh`
 
+## start a local dev server
+`hugo server`
