@@ -34,16 +34,6 @@ I was looking to build a design tool for [a specific kind of synthesizer circuit
 
 {{< codepen id="oNYmEGv" height=250 >}}
 
-## Multipath Storytelling Prototypes
-
-Two colleagues and myself were considering a startup venture along user-generated content of multi-path stories. I created a working prototype to validate some of our design ideas.
-
-{{< codepen id="gqrPEE" height=600 >}}
-
-I also created a prototype exploring an in-place editor concept. Enable editing mode with the button at the top and then click on any text to edit. Changes aren't persisted in this prototype.
-
-{{< codepen id="omBwBy" height=600 >}}
-
 ## Generative music
 
 I've been interested in generative music for quite a while. Here is a sketch that generates "songs" using a set of rules.
