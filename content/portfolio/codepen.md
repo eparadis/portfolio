@@ -34,21 +34,16 @@ I was looking to build a design tool for [a specific kind of synthesizer circuit
 
 {{< codepen id="oNYmEGv" height=250 >}}
 
-## Generative music
+## Generative "music"
 
 I've been interested in generative music for quite a while. Here is a sketch that generates "songs" using a set of rules.
 
+The Axiom is the starting point, and then the rules are applied iteratively. The format of the strings is the same as old cellphone melodies: a note name followed by number representing length. Carots indicate a shift up or down in current octave. Octave an be set with `o` followed by a number of the absolute octave. `t` sets the tempo.
+
+The rules are pretty self-explanatory. The keys of the object are matched in order and the corresponding value is appended to the output. By doing this iteratively, very long patterns can be constructed
+
+Press "Play" to begin the audio.
+
 {{< codepen id="YdJmNX" >}}
 
-## FORTH machine
-
-This is pretty nerdy. Here is an implementation of FORTH I wrote that runs in the browser. [FORTH is a programming language](https://en.wikipedia.org/wiki/Forth_(programming_language)) that I find very compelling due to its simplicity. If you'd like to try your hand, [the full page view](https://codepen.io/eparadis/full/oNNGwWP) is best. 
-
-{{< codepen id="oNNGwWP" >}}
-
-## Virtual Machine
-
-This is for the real nerds. Here is an entire virtual machine and an assembly language assembler for it. This is pretty gnarly and also [best viewed fullscreen](https://codepen.io/eparadis/full/mdyPXJa). The machine trace is on the left, the assembly editor is on the right, and if your code writes to memory address 999, characters will appear in the output on the far right.
-
-{{< codepen id="mdyPXJa" >}}
 
