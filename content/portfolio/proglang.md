@@ -14,11 +14,11 @@ Get ready to spin that propeller - this stuff can get deep.
 
 ## FORTH (programming language) interpretter
 
-This is pretty nerdy. Here is an implementation of FORTH I wrote that runs in the browser. [FORTH is a programming language](https://en.wikipedia.org/wiki/Forth_(programming_language)) that I find very compelling due to its simplicity. If you'd like to try your hand, [the full page view](https://codepen.io/eparadis/full/oNNGwWP) is best. 
+This is pretty nerdy. Here is an implementation of FORTH I wrote that runs in the browser. [FORTH is a programming language](https://en.wikipedia.org/wiki/Forth_(programming_language)) that I find very compelling due to its simplicity.
 
 It only has a bare minimum of words in its dictionary, so be prepared to implement `if..else..then` yourself, amongst other challenges.
 
-{{< codepen id="oNNGwWP" >}}
+If you'd like to try your hand, [the full page view](https://codepen.io/eparadis/full/oNNGwWP) is the best way to see the current progress.
 
 ## Virtual Machine
 
@@ -57,3 +57,6 @@ CONDITION_OR_NIL COMMAND DST_OR_LEFT COMMA SRC_RIGHT_OR_IMM
 ```
 
 The assembler has a few commands to make things easier. `NEXT` is a signal to use the next location in memory as the source. `.D` is an assembler directive to store a single decimal value at the current assembled location. This is how you specify literals.
+
+Check out the current progress [here](https://codepen.io/eparadis/full/mdyPXJa).
+
