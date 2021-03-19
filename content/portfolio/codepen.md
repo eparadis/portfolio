@@ -32,7 +32,12 @@ Use the two buttons to control the full-screen wipe.
 
 I was looking to build a design tool for [a specific kind of synthesizer circuit](http://mickeydelp.com/blog/anatomy-of-a-drum-machine?) and thought some interactive linked sliders might be a good input method.
 
-{{< codepen id="oNYmEGv" height=250 >}}
+{{< codepen id="RwoOXMy" height=400 >}}
+
+
+Here is an earlier design exploration where the sliders were linked.
+
+{{< codepen id="oNYmEGv" height=400 >}}
 
 ## Generative "music"
 
