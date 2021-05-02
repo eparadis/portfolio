@@ -1,17 +1,28 @@
 +++
-date = "2018-08-05"
+date = "2021-05-02"
 title = "About me"
 +++
 
-I'm **Ed Paradis**, a software engineer on the UX Designer path. After working as a developer for over a decade, I realized that the difficult problems are determining what to build, not how to build it. I'd like to find a place that lets me do some of both.
+Hi, I'm **Ed**.
 
-I've always been making things for people to use, and my experience as a developer means writing code and deploying servers will be a tool in my belt for the rest of my life. But after completing a Certificate in User-Centered Design in 2018, I learned how products can be so much more effective by iterating prototypes directly with users.
+I do Engineering and Design, but mostly Engineering. After many years in technology, my concern is not “How do I build it.” It’s “What do I build?”
 
-![This is me][1]
+You should hire me because - 
+
+I’m a triple threat - Engineering career, Design education, and Management experience.
+
+I’ve got domain knowledge - behavioral change, healthcare tech, edu-tech, software engineering, hardware prototyping, robotics, non-profits, academia...
+
+You need a cool head - I’ve been through a few startups and I’m not going to freak out with every investor bobble.
+
+I’m here for people, not things - understanding them, getting them to use your product, inspiring them to build the right thing, keeping them motivated, doing right by all stakeholders.
+
+![Picture of me wearing a hat and making a face][1]
 
 #### Education
 
-* Certificate in User Centered Design - Univ. Washington, 2018
+* Master of Science in Human Centered Design & Engineering - Univ. of Washington, 2022 (expected)
+* Certificate in User Centered Design - Univ. of Washington, 2018
 * Bachelor of Science in Electrical Engineering - Univ. Texas at Dallas, 2005
 
 [1]: /img/about.jpg

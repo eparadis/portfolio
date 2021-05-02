@@ -51,20 +51,6 @@ After the electronics were completed, I then constructed the physical mockups of
 
 ## UX Design Process
 
-```
-    / \         / \
-  /     \     /     \
-/         \ /         \
-\         / \         /
-  \     /     \     /
-    \ /         \ /
-
-Discovery   
-      Definition   
-            Development    
-                  Delivery
-```
-
 As an exercise in prototyping, this project represents only a portion of my UCD process. In the double diamond framework, prototyping begins in the second converging phase - after discovery, definition, and ideation. As school project, it existed in a meta-framework of exploring capability. Could I construct a prototype and use it in a video presentation to communicate a design intent?
 
 <!--
@@ -93,13 +79,12 @@ As an exercise in prototyping, this project represents only a portion of my UCD 
 The resulting video (above) was shown to great enthusiasm in the final meeting of the course. 
 
 ## Reflection / Retrospective
-- what went well
-    - creating the video took about as much time as had estimated from experience: 1 hour of production for each minute of video
-    - I got full points on the assignment
-    - the hotglue and paper method of construction was both fast and durable
-- what didn't work
-    - the lack of any labels made it unclear what functions did what
-- what I'd change next time
+- What went well
+    - Creating the video took about as much time as had estimated from experience: 1 hour of production for each minute of video
+    - The hotglue and paper method of construction was both fast and durable
+- What didn't work
+    - The lack of any labels made it unclear what functions did what
+- What I'd change next time
     - In a full UCD project, the many features of this prototype would be tested separately. They may, for example, not all be enabled at once so that each interaction could be validated separately.
 <!--
 - what I enjoyed

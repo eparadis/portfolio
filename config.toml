@@ -11,12 +11,12 @@ googleAnalytics = ""
   title = "Portfolio of Ed Paradis"
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "default"
+  style = "sea"
   description = "Portfolio"
   copyright = "&copy;2021 Ed Paradis"
   sidebarAbout = [
-    "A software engineer with 10+ years of experience aspiring to work in the UX space.",
-    "Available in the Seattle, WA area."
+    "A holistic technologist with a career in engineering, an education in design, and experience in management.",
+    "Available in Seattle or remotely."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
